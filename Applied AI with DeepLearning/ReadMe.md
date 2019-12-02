@@ -1,3 +1,4 @@
+## Applied AI with DeepLearning
 
 This course, Applied Artificial Intelligence with DeepLearning, is part of the IBM Advanced Data Science Certificate which IBM is currently creating and gives you easy access to the invaluable insights into Deep Learning models used by experts in Natural Language Processing, Computer Vision, Time Series Analysis, and many other disciplines.   
 
