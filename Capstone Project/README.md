@@ -37,23 +37,23 @@ There are a total of **7 classes** of skin cancer in the dataset. After removing
 
 ## Reports
 
-**Final validation loss**: 0.7610
+**Final validation loss**: 0.7610  
 **Final testing loss**:   0.7017<br>
 
 
-**Final validation accuracy**: 0.895
+**Final validation accuracy**: 0.895  
 **Final testing accuracy**:   0.884<br>
 
-**Final validation precision**: 0.895
+**Final validation precision**: 0.895  
 **Final testing precision**:   0.876<br>
 
-**Final validation recall**: 0.902
+**Final validation recall**: 0.902  
 **Final testing recall**:   0.892<br>
 
-**Final validation F1 score**: 0.898
+**Final validation F1 score**: 0.898  
 **Final testing F1 score**:   0.884<br>
 
-**Confusion matrix**
+**Confusion matrix**  
 ![conf_mtx](./images/confusion_matrix.png)
 
 
