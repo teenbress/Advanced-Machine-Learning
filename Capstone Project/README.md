@@ -1,6 +1,6 @@
 # Skin Cancer Detection
 ### What is this all about?
-The aim of this project is to detect **skin lesions** using a deep learning model. This project is a part of the ongoing **Advanced Machine Learning**.
+The aim of this project is to detect **skin lesions** using a deep learning CNN model with Keras. This project is a part of the ongoing **Advanced Machine Learning**.
 
 ### Introduction
 Any type of cancer is somehow deeply dangerous if not deadly. To see how bad the situation is, let us look at some of the stats given by the [skin cancer organization](https://www.skincancer.org/skin-cancer-information/):
